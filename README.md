@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Project
-Author: Sarthak Naithani <br />
+Author: tanmay shukla <br />
 
 ## Goal of the Project
 1. A tidy data set 
